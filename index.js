@@ -1,12 +1,16 @@
 'use strict';
 const foregroundColor = '#eff0eb';
 const backgroundColor = '#282a36';
-const red = '#ff5c57';
-const green = '#5af78e';
-const yellow = '#f3f99d';
-const blue = '#57c7ff';
-const magenta = '#ff6ac1';
-const cyan = '#9aedfe';
+
+// Colors used in 9009
+const green = '#768e72';  // 3B
+const red = '#c87e74';  // 3A
+
+// Colors from GMK Swatch
+const yellow = '#f8c200';  // CV
+const blue = '#00589f';  // V4
+const magenta = '#cb3d6e';  // MG1
+const cyan = '#0084c2';  // N5
 
 exports.decorateConfig = config => Object.assign({}, config, {
 	backgroundColor,

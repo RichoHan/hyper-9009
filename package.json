@@ -1,13 +1,13 @@
 {
-	"name": "hyper-snazzy",
-	"version": "1.3.0",
-	"description": "Elegant Hyper theme with bright colors",
+	"name": "hyper-9009",
+	"version": "0.0.2",
+	"description": " A modified Hyper theme from hyper-snazzy.",
 	"license": "MIT",
-	"repository": "sindresorhus/hyper-snazzy",
+	"repository": "RichoHan/hyper-9009",
 	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "sindresorhus.com"
+		"name": "Richo Han",
+		"email": "richohan.dev@gmail.com",
+		"url": "http://richo.tw"
 	},
 	"files": [
 		"index.js"

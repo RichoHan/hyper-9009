@@ -1,35 +1,16 @@
-# hyper-snazzy [![Mentioned in Awesome Hyper](https://awesome.re/mentioned-badge.svg)](https://github.com/bnb/awesome-hyper)
+# hyper-9009
 
-> Elegant [Hyper](https://hyper.is) theme with bright colors
+## Status: work-in-progress
 
-![](screenshot.png)
-
-
-## Install
-
-```
-$ hyper install hyper-snazzy
-```
-
-
-## Tip
-
-To get the exact same look as in the screenshot, you need to use the [Pure](https://github.com/sindresorhus/pure) prompt, Menlo font, and the [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) plugin to have commands highlighted.
-
-
-## Related
-
-- [iterm2-snazzy](https://github.com/sindresorhus/iterm2-snazzy) - iTerm2 version
-- [terminal-snazzy](https://github.com/sindresorhus/terminal-snazzy) - Terminal version
-- [konsole-snazzy](https://github.com/miedzinski/konsole-snazzy) - Konsole version
-- [vscode-snazzy](https://github.com/Tyriar/vscode-snazzy) - VS Code version
-- [emacs-snazzy](https://github.com/weijiangan/emacs-snazzy) - Emacs version
-- [termite-snazzy](https://github.com/kbobrowski/termite-snazzy) - Termite version
-- [deepin-snazzy](https://github.com/xxczaki/deepin-snazzy) - Linux Deepin terminal version
-- [vim-snazzy](https://github.com/connorholyday/vim-snazzy) - Vim version
-- [base16-snazzy](https://github.com/h404bi/base16-snazzy-scheme) - Base16 version
-
-
-## License
-
-MIT © [Sindre Sorhus](https://sindresorhus.com)
+## GMK Color Code Mapper
+|GMK Code|Representation|RGB|
+|:-:|:-:|:-:|
+|CR|<span style="color: #171718">■</span>|#171718|
+|U9|<span style="color: #aca693">■</span>|#aca693|
+|L9|<span style="color: #d8d2c3">■</span>|#d8d2c3|
+|3B|<span style="color: #768e72">■</span>|#768e72|
+|3A|<span style="color: #c87e74">■</span>|#c87e74|
+|V4|<span style="color: #00589f">■</span>|#00589f|
+|CV|<span style="color: #f8c200">■</span>|#f8c200|
+|MG1|<span style="color: #cb3d6e">■</span>|#cb3d6e|
+|N5|<span style="color: #0084c2">■</span>|#0084c2|
