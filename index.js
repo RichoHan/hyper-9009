@@ -1,5 +1,5 @@
 'use strict';
-const foregroundColor = '#171718';  //CR
+const foregroundColor = '#171718';  // CR
 const backgroundColor = '#d8d2c3';  // L9
 
 // Colors used in 9009
@@ -8,7 +8,7 @@ const red = '#c87e74';  // 3A
 
 // Colors from GMK Swatch
 const yellow = '#f8c200';  // CV
-const blue = '#00589f';  // V4
+const blue = '#768e72';  // Still use 3B to make the whole theme more 9009-style
 const magenta = '#cb3d6e';  // MG1
 const cyan = '#0084c2';  // N5
 
