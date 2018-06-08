@@ -5,12 +5,12 @@
 ## GMK Color Code Mapper
 |GMK Code|Representation|RGB|
 |:-:|:-:|:-:|
-|CR|<span style="color: #171718">■</span>|#171718|
-|U9|<span style="color: #aca693">■</span>|#aca693|
-|L9|<span style="color: #d8d2c3">■</span>|#d8d2c3|
-|3B|<span style="color: #768e72">■</span>|#768e72|
-|3A|<span style="color: #c87e74">■</span>|#c87e74|
-|V4|<span style="color: #00589f">■</span>|#00589f|
-|CV|<span style="color: #f8c200">■</span>|#f8c200|
-|MG1|<span style="color: #cb3d6e">■</span>|#cb3d6e|
-|N5|<span style="color: #0084c2">■</span>|#0084c2|
+|CR|![#171718](https://placehold.it/15/171718/000000?text=+)|#171718|
+|U9|![#aca693](https://placehold.it/15/aca693/000000?text=+)|#aca693|
+|L9|![#d8d2c3](https://placehold.it/15/d8d2c3/000000?text=+)|#d8d2c3|
+|3B|![#768e72](https://placehold.it/15/768e72/000000?text=+)|#768e72|
+|3A|![#c87e74](https://placehold.it/15/c87e74/000000?text=+)|#c87e74|
+|CV|![#f8c200](https://placehold.it/15/f8c200/000000?text=+)|#f8c200|
+|V4|![#00589f](https://placehold.it/15/00589f/000000?text=+)|#00589f|
+|MG1|![#cb3d6e](https://placehold.it/15/cb3d6e/000000?text=+)|#cb3d6e|
+|N5|![#0084c2](https://placehold.it/15/0084c2/000000?text=+)|#0084c2|
