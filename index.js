@@ -7,7 +7,7 @@ const green = '#768e72';  // 3B
 const red = '#c87e74';  // 3A
 
 // Colors from GMK Swatch
-const yellow = '#f8c200';  // CV
+const yellow = '#e5a100';  // N6
 const blue = '#00589f';  // V4
 const magenta = '#cb3d6e';  // MG1
 const cyan = '#0084c2';  // N5
