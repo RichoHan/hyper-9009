@@ -1,6 +1,6 @@
 'use strict';
-const foregroundColor = '#eff0eb';
-const backgroundColor = '#282a36';
+const foregroundColor = '#171718';  //CR
+const backgroundColor = '#d8d2c3';  // L9
 
 // Colors used in 9009
 const green = '#768e72';  // 3B
