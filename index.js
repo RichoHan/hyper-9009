@@ -15,7 +15,7 @@ const cyan = '#0084c2';  // N5
 exports.decorateConfig = config => Object.assign({}, config, {
 	backgroundColor,
 	foregroundColor,
-	borderColor: '#222430',
+	borderColor: backgroundColor,
 	cursorColor: '#97979b',
 	cursorAccentColor: backgroundColor,
 	selectionColor: 'rgba(151, 151, 155, 0.2)',
