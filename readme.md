@@ -31,4 +31,4 @@ For all colors used in the theme, please check the table below.
 ## License
 MIT
 
-Copyright for portions of project hyper-9009 are held by [[Sindre Sorhus](sindresorhus.com), 2017] as part of project hyper-snazzy. All other copyright for rest of the project are held by [[Richo Han](richo.tw), 2018].
+> Copyright for portions of project [hyper-9009](https://github.com/RichoHan/hyper-9009) are held by [[Sindre Sorhus](sindresorhus.com), 2017] as part of project [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy). All other copyright for the rest of the project are held by [[Richo Han](richo.tw), 2018].
