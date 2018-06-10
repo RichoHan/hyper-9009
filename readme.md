@@ -11,7 +11,7 @@ $ hyper install hyper-9009
 ```
 
 ## Explanation
-The idea behind the theme was inspired from both [GMK 9009](https://dixiemech.com/shop/gmk9009) and [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy). It was originally an experiment of showing printing colors on terminal, and it turns out to be okay. To make your terminal aligned with the screenshot, [pure-9009](https://github.com/RichoHan/pure-9009) is recommended (also a modified version of [pure](https://github.com/sindresorhus/pure)). Note that 99% of work was done by the original author [Sindre Sorhus](https://github.com/sindresorhus) and relative team members.  
+The idea behind the theme was inspired from both [GMK 9009](https://dixiemech.com/shop/gmk9009) and [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy). It was originally an experiment of showing printing colors on terminal, and it turns out to be okay. To make your terminal aligned with the screenshot, [pure-9009](https://github.com/RichoHan/pure-9009) is recommended (also a modified version of [pure](https://github.com/sindresorhus/pure)). Note that most of work was done by the original author [Sindre Sorhus](https://github.com/sindresorhus) and relative team members.  
 
 For all colors used in the theme, please check the table below.
 
@@ -29,5 +29,6 @@ For all colors used in the theme, please check the table below.
 |Cyan|N5|![#0084c2](https://placehold.it/15/0084c2/000000?text=+)|#0084c2|
 
 ## License
+MIT
 
-MIT © [Richo Han](https://richo.tw)
+Copyright for portions of project hyper-9009 are held by [[Sindre Sorhus](sindresorhus.com), 2017] as part of project hyper-snazzy. All other copyright for rest of the project are held by [[Richo Han](richo.tw), 2018].
