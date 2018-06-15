@@ -1,6 +1,6 @@
 'use strict';
 const foregroundColor = '#171718';  // CR
-const backgroundColor = '#d8d2c3';  // L9
+const backgroundColor = '#f7f2ea';  // WS1
 
 // Colors used in 9009
 const green = '#768e72';  // 3B
@@ -27,7 +27,7 @@ exports.decorateConfig = config => Object.assign({}, config, {
 		blue,
 		magenta,
 		cyan,
-		white: '#f1f1f0',
+		white: backgroundColor,
 		lightBlack: '#686868',
 		lightRed: red,
 		lightGreen: green,
