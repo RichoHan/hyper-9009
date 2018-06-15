@@ -1,6 +1,6 @@
 {
 	"name": "hyper-9009",
-	"version": "0.0.9",
+	"version": "0.0.10",
 	"description": " A modified Hyper theme from hyper-snazzy.",
 	"license": "MIT",
 	"repository": "RichoHan/hyper-9009",
@@ -16,5 +16,6 @@
 		"hyper",
 		"hyper-theme",
 		"elegant"
-	]
+	],
+	"dependencies": {}
 }

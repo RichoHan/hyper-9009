@@ -1,16 +1,19 @@
 'use strict';
-const foregroundColor = '#171718';  // CR
-const backgroundColor = '#f7f2ea';  // WS1
-
 // Colors used in 9009
+const black = '#171718';  // CR
 const green = '#768e72';  // 3B
 const red = '#c87e74';  // 3A
 
 // Colors from GMK Swatch
+const white = '#f7f2ea';  // WS1
 const yellow = '#e5a100';  // N6
 const blue = '#00589f';  // V4
 const magenta = '#cb3d6e';  // MG1
 const cyan = '#0084c2';  // N5
+
+const foregroundColor = black;
+const backgroundColor = white;
+
 
 exports.decorateConfig = config => Object.assign({}, config, {
 	backgroundColor,
@@ -20,22 +23,22 @@ exports.decorateConfig = config => Object.assign({}, config, {
 	cursorAccentColor: backgroundColor,
 	selectionColor: 'rgba(151, 151, 155, 0.2)',
 	colors: {
-		black: backgroundColor,
+		black,
 		red,
 		green,
 		yellow,
 		blue,
 		magenta,
 		cyan,
-		white: backgroundColor,
-		lightBlack: '#686868',
+		white,
+		lightBlack: black,
 		lightRed: red,
 		lightGreen: green,
 		lightYellow: yellow,
 		lightBlue: blue,
 		lightMagenta: magenta,
 		lightCyan: cyan,
-		lightWhite: foregroundColor
+		lightWhite: white
 	},
 	css: `
 		/* Hide title when only one tab */
